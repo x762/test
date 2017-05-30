@@ -1,2 +1,3 @@
 print ("Hello world")
-pring ("Hello everybody")
+print ("Hello everybody")
+print("hello")
